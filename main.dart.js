@@ -78941,18 +78941,17 @@ A.ai6.prototype={
 $2(a,b){var s,r,q,p,o,n,m=this.a,l=m.e
 if(l===$){l=m.e=A.b([],t.s)
 s=l}else s=l
-l.toString
-r=(s===$?m.e=A.b([],t.s):s)[0]
+if(0<l.length){r=(s===$?m.e=A.b([],t.s):s)[b]
 l=m.f
-q=(l===$?m.f=A.b([],t.s):l)[0]
+q=(l===$?m.f=A.b([],t.s):l)[b]
 l=m.r
-p=(l===$?m.r=A.b([],t.s):l)[0]
+p=(l===$?m.r=A.b([],t.s):l)[b]
 l=m.w
-o=(l===$?m.w=A.b([],t.s):l)[0]
+o=(l===$?m.w=A.b([],t.s):l)[b]
 l=m.x
-n=(l===$?m.x=A.b([],t.s):l)[0]
+n=(l===$?m.x=A.b([],t.s):l)[b]
 l=m.y
-return new A.rd(r,q,p,o,n,(l===$?m.y=A.b([],t.s):l)[0],null)},
+return new A.rd(r,q,p,o,n,(l===$?m.y=A.b([],t.s):l)[b],null)}},
 $S:510}
 A.re.prototype={
 G(a){var s=null,r=A.bi(a,s,t.w).w.a,q=t.p
