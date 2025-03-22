@@ -86556,7 +86556,7 @@ k=A.a4i(h,h,B.ac,h,h,h,h,h,h,B.zE,h,h,h,h,h,new A.cX(A.i8(10),B.q),h,h,h,h)
 k=A.bT(A.b([m,A.a4h(A.bD("Fecha".toUpperCase(),h,h,h,A.iQ().$2$color$fontSize(B.c6,20),h,h,h),new A.arJ(i,a),k)],s),B.r,B.dV,B.v)
 m=A.a4i(h,h,B.c6,h,h,h,h,h,h,B.SV,h,h,h,h,h,new A.cX(A.i8(10),B.q),h,h,h,h)
 j=i.a.c===""?"Agregar producto".toUpperCase():"Guardar".toUpperCase()
-return A.vp(f,A.bV(h,A.bT(A.b([new A.bi(B.I9,A.azX(new A.bi(B.I0,A.dx(A.b([new A.bi(B.I_,e,h),new A.dG(i.ax,"Nombre Producto",!1,g,h),new A.bo(550,h,r,h),new A.dG(i.ay,"Referencia Interna",!1,g,h),new A.dG(i.ch,"C\xf3digo de Barras",!1,g,h),new A.dG(i.CW,"Costo",!0,q,h),new A.bo(550,h,p,h),new A.dG(i.cx,"Precio de venta",!0,o,h),new A.bo(550,h,n,h),l,new A.dG(i.db,"Nombre del producto",!1,g,h),new A.dG(i.dx,"C\xf3digo Producto",!1,g,h),new A.bi(B.nN,new A.bo(550,h,k,h),h),new A.dG(i.fx,"Peso",!1,g,h),new A.dG(i.fy,"Volumen",!1,g,h),new A.dG(i.go,"Color",!1,g,h),B.zJ,A.a4h(A.bD(j,h,h,h,A.iQ().$3$color$fontSize$fontWeight(B.ac,20,B.aP),h,h,h),new A.arK(i,a),m)],s),B.bi,B.cx,B.v),h),h,B.ak),h),new A.o5(h),new A.bo(60,h,A.dx(A.b([B.Td,A.cy(h,h,B.JS,h,h,h,new A.arL(),h,h,h,h),new A.o5(h)],s),B.r,B.t,B.v),h),new A.o5(h),B.JN,new A.o5(h)],s),B.r,B.t,B.v),B.n,B.j,h,h,h,h,h,h,h,h,h))},
+return A.vp(f,A.bV(h,A.bT(A.b([new A.bi(B.I9,A.azX(new A.bi(B.I0,A.dx(A.b([new A.bi(B.I_,e,h),new A.dG(i.ax,"Nombre Producto",!1,g,h),new A.bo(550,h,r,h),new A.dG(i.ay,"Referencia Interna",!1,g,h),new A.dG(i.ch,"C\xf3digo de Barras",!1,g,h),new A.dG(i.CW,"Costo",!0,q,h),new A.bo(550,h,p,h),new A.dG(i.cx,"Precio de venta",!0,o,h),new A.bo(550,h,n,h),l,new A.dG(i.db,"Nombre del producto",!1,g,h),new A.dG(i.dx,"C\xf3digo Producto",!1,g,h),new A.bi(B.nN,new A.bo(550,h,k,h),h),new A.dG(i.fx,"Peso",!1,g,h),new A.dG(i.fy,"Volumen",!1,g,h),new A.dG(i.go,"Color",!1,g,h),B.zJ,A.a4h(A.bD(j,h,h,h,A.iQ().$3$color$fontSize$fontWeight(B.ac,20,B.aP),h,h,h),new A.arK(i,a),m)],s),B.bi,B.cx,B.v),h),h,B.ak),h),new A.o5(h),new A.bo(60,h,A.dx(A.b([B.Td,A.cy(h,h,B.JM,h,h,h,new A.arL(),h,h,h,h),new A.o5(h)],s),B.r,B.t,B.v),h),new A.o5(h),B.JO,new A.o5(h)],s),B.r,B.t,B.v),B.n,B.j,h,h,h,h,h,h,h,h,h))},
 bN(){var s=0,r=A.L(t.H),q,p=this,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$bN=A.M(function(a1,a2){if(a1===1)return A.I(a2,r)
 while(true)switch(s){case 0:s=3
@@ -86981,7 +86981,7 @@ if(r.length!==0){q=A.Z(r).h("a4<1,pn>")
 B.b.G(l,A.b([B.Yn,B.zJ,new A.bo(550,o,new A.QW(8,4,A.a_(new A.a4(r,new A.as5(p),q),!0,q.h("ap.E")),o),o)],s))}l.push(B.zL)
 p.a.toString
 l.push(A.dl(!1,A.bD("AGREGAR PROVEEDOR",o,o,o,B.fv,o,o,o),o,o,!0,o,o,o,o,new A.as6(p),o,o))
-return A.vp(m,A.bV(o,A.azX(A.bT(A.b([new A.bi(B.Ia,A.dx(l,B.bi,B.t,B.v),o),A.bV(o,o,B.n,B.c6,o,o,o,400,o,o,o,o,1),B.JP],s),B.r,B.t,B.v),o,B.ak),B.n,B.j,o,o,o,o,o,o,o,o,o))},
+return A.vp(m,A.bV(o,A.azX(A.bT(A.b([new A.bi(B.Ia,A.dx(l,B.bi,B.t,B.v),o),A.bV(o,o,B.n,B.c6,o,o,o,400,o,o,o,o,1),B.JQ],s),B.r,B.t,B.v),o,B.ak),B.n,B.j,o,o,o,o,o,o,o,o,o))},
 xS(a){return this.a7w(a)},
 a7w(a){var s=0,r=A.L(t.H),q=this,p,o
 var $async$xS=A.M(function(b,c){if(b===1)return A.I(c,r)
@@ -87423,7 +87423,7 @@ if(o)n.push(B.Ih)
 s=p<1
 if(s)n.push(A.cy(q,q,B.JT,q,q,q,new A.a23(),q,q,q,q))
 if(s)n.push(A.cy(q,q,B.JW,q,q,q,new A.a24(),q,q,q,q))
-if(o)n.push(A.aTa(B.JM,A.bD("("+p+")",q,q,q,q,q,q,q),r.r,A.DK(q,q,q,q,q,q,q,q,q,q,q,B.Om,q,q,q,q,q,q,q,q,q,q,q,q,q,q)))
+if(o)n.push(A.aTa(B.JN,A.bD("("+p+")",q,q,q,q,q,q,q),r.r,A.DK(q,q,q,q,q,q,q,q,q,q,q,B.Om,q,q,q,q,q,q,q,q,q,q,q,q,q,q)))
 return A.bV(q,A.bT(n,B.r,B.t,B.v),B.n,B.fW,q,q,q,50,q,q,q,q,r.c.a)}}
 A.a21.prototype={
 $0(){var s=A.AP(new A.a20(this.a),null,t.z)
@@ -96741,24 +96741,24 @@ B.TV=new A.dA("assets/iconos/iconos/Manual1.svg",null,null)
 B.op=new A.dj(B.TV,25,25,null)
 B.TW=new A.dA("assets/iconos/Iconos/Almacenable.svg",null,null)
 B.JL=new A.dj(B.TW,80,80,null)
+B.TQ=new A.dA("assets/iconos/iconos/AgregarFoto.svg",null,null)
+B.JM=new A.dj(B.TQ,60,60,null)
 B.TL=new A.dA("assets/iconos/iconos/Eliminar2.svg",null,null)
-B.JM=new A.dj(B.TL,25,25,null)
+B.JN=new A.dj(B.TL,25,25,null)
 B.TX=new A.dA("assets/iconos/iconos/MenuPrincipal.svg",null,null)
 B.dR=new A.dj(B.TX,25,25,null)
 B.TH=new A.dA("assets/fondos/CreacionDeProducto.svg",null,null)
-B.JN=new A.dj(B.TH,600,600,null)
+B.JO=new A.dj(B.TH,600,600,null)
 B.TU=new A.dA("assets/iconos/iconos/Notificaciones.svg",null,B.j)
-B.JO=new A.dj(B.TU,25,25,null)
+B.JP=new A.dj(B.TU,25,25,null)
 B.TO=new A.dA("assets/iconos/iconos/Regresar.svg",null,null)
 B.dS=new A.dj(B.TO,25,25,null)
 B.TT=new A.dA("assets/fondos/CreacionDeProveedor.svg",null,null)
-B.JP=new A.dj(B.TT,600,600,null)
+B.JQ=new A.dj(B.TT,600,600,null)
 B.TP=new A.dA("assets/iconos/iconos/Calculadora.svg",null,B.j)
-B.JQ=new A.dj(B.TP,25,25,null)
+B.JR=new A.dj(B.TP,25,25,null)
 B.TK=new A.dA("assets/iconos/iconos/Calendario.svg",null,B.j)
-B.JR=new A.dj(B.TK,25,25,null)
-B.TQ=new A.dA("assets/iconos/Iconos/AgregarFoto.svg",null,null)
-B.JS=new A.dj(B.TQ,60,60,null)
+B.JS=new A.dj(B.TK,25,25,null)
 B.TI=new A.dA("assets/iconos/iconos/Filtros.svg",null,null)
 B.JT=new A.dj(B.TI,25,25,null)
 B.TY=new A.dA("assets/iconos/iconos/Favoritos1.svg",null,null)
@@ -99793,7 +99793,7 @@ s($,"b4Z","aMT",()=>{var q=t.K
 return new A.aie(new A.a0X(A.q(q,A.ad("a6<c3>")),A.q(q,t.V4)))})
 s($,"b52","aMV",()=>new A.ad8(A.q(t.N,A.ad("a6<c3?>?(c3?)"))))
 r($,"b4t","tc",()=>{var q=null
-return A.b([A.cy(B.j,q,B.JQ,q,q,q,new A.ax_(),q,q,q,q),A.cy(B.j,q,B.JO,q,q,q,new A.ax0(),q,q,q,q),A.cy(B.j,q,B.JR,q,q,q,new A.ax1(),q,q,q,q),A.cy(B.j,q,B.JX,q,q,q,new A.ax2(),q,q,q,q),A.cy(B.j,q,B.JY,q,q,q,new A.ax3(),q,q,q,q)],t.p)})
+return A.b([A.cy(B.j,q,B.JR,q,q,q,new A.ax_(),q,q,q,q),A.cy(B.j,q,B.JP,q,q,q,new A.ax0(),q,q,q,q),A.cy(B.j,q,B.JS,q,q,q,new A.ax1(),q,q,q,q),A.cy(B.j,q,B.JX,q,q,q,new A.ax2(),q,q,q,q),A.cy(B.j,q,B.JY,q,q,q,new A.ax3(),q,q,q,q)],t.p)})
 r($,"b1n","aya",()=>A.iQ().$3$color$fontSize$fontWeight(B.ac,20,B.H))
 r($,"b1o","aKH",()=>A.iQ().$3$color$fontSize$fontWeight(B.ac,30,B.aP))
 r($,"b1m","aBw",()=>A.iQ().$3$color$fontSize$fontWeight(B.c6,20,B.aP))
